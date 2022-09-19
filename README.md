@@ -16,6 +16,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * [Examples of use](#examples-of-use)
 * [Bugs](#bugs)
 * [Authors](#authors)
+* [Contribution](#Contribution)
 * [License](#license)
 
 ## Environment
@@ -156,6 +157,13 @@ No known bugs at this time.
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Hassine Mohamed Anwer - [Github](https://github.com/HassineMohamedAnwer)
+
+## Contribution
+Hassine Mohamed Anwer:
+adding some tests using the unittest module  to be sure I didn’t break anything.
+Updating DBStorage and FileStorage, adding two new methods in the branch storage_get_count
+
 
 Second part of Airbnb: Joann Vuong
 ## License
